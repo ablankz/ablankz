@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">
-Hello there, I'm Hayashi Kenta. 👋
+Hello there, I'm Hayashi Kenta.👋
 </h1>
 <h3>
   During personal development, we develop under the name blank(ablankz).
