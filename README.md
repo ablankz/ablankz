@@ -23,12 +23,12 @@ Hello there, I'm Hayashi Kenta.👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=ablankz&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-## My Portfolio (Selfroom)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ablankz&repo=selfroom&theme=onedark)](https://github.com/ablankz/selfroom)
-
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ablankz&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ablankz&theme=onedark&show_icons=ture" />
 </p>
 
+## My Repo to look at
 
+#### Portfolio (Selfroom)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ablankz&repo=selfroom&theme=onedark)](https://github.com/ablankz/selfroom)
